@@ -16,4 +16,5 @@ Kvasir_Segmentation_using_U_Net
 - Format: JPG
 
 
+![Figure1](https://github.com/user-attachments/assets/372e1fca-a164-463b-bb0f-24cc8276ef2b)
 
